@@ -1,0 +1,49 @@
+### metadata document 
+GET http://localhost:4004/odata/v4/cap-proj2/$metadata
+
+### query operation
+GET http://localhost:4004/odata/v4/cap-proj2/Products
+
+### Read Operation
+GET http://localhost:4004/odata/v4/cap-proj2/Products('PR0003')
+
+### Create Operation 
+POST http://localhost:4004/odata/v4/cap-proj2/Products
+Content-Type: application/json
+
+{
+  "prdId": "PR0031",
+  "name": "iPhone 17 Pro",
+  "desc": "iPhone 17 Pro 256GB Titanium",
+  "price": 134900,
+  "discount": 10,
+  "stock": 10
+}
+
+### Update Request - PATCH
+PATCH http://localhost:4004/odata/v4/cap-proj2/Products('PR0031')
+Content-Type: application/json
+
+{
+  "discount": 0,
+  "stock": 20
+}
+
+###  Update Request - PUT
+PUT http://localhost:4004/odata/v4/cap-proj2/Products
+Content-Type: application/json
+
+{
+  "prdId": "PR0031",
+  "name": "iPhone 17 Pro",
+  "desc": "iPhone 17 Pro 256GB Titanium",
+  "price": 134900,
+  "discount": 7,
+  "stock": 30
+}
+
+### delete Operation
+DELETE http://localhost:4004/odata/v4/cap-proj2/Products('PR0031')
+
+###
+GET http://localhost:4004/odata/v4/cap-proj2/Products('PR0031')

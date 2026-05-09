@@ -1,0 +1,31 @@
+prdId,name,desc,price,discount,stock
+PR0001,iPhone 15,iPhone 15 128GB Midnight Black,79900.00,5,150
+PR0002,iPhone 15 Plus,iPhone 15 Plus 256GB Blue,89900.00,4,120
+PR0003,iPhone 15 Pro,iPhone 15 Pro 256GB Titanium,134900.00,3,80
+PR0004,iPhone 15 Pro Max,iPhone 15 Pro Max 512GB Natural,159900.00,2,60
+PR0005,iPhone 14,iPhone 14 128GB Starlight,69900.00,8,200
+PR0006,iPhone 14 Plus,iPhone 14 Plus 256GB Purple,79900.00,7,180
+PR0007,iPhone SE 3rd Gen,iPhone SE 3rd Gen 64GB Red,49900.00,10,250
+PR0008,iPad Pro 11,iPad Pro 11-inch M2 256GB WiFi,89900.00,5,100
+PR0009,iPad Pro 13,iPad Pro 13-inch M2 512GB WiFi,119900.00,4,75
+PR0010,iPad Air 5th Gen,iPad Air 5th Gen 64GB Sky Blue,59900.00,6,130
+PR0011,iPad Mini 6th Gen,iPad Mini 6th Gen 64GB Starlight,46900.00,7,110
+PR0012,iPad 10th Gen,iPad 10th Gen 64GB Yellow WiFi,44900.00,8,160
+PR0013,MacBook Air M2,MacBook Air 13in M2 8GB 256GB,114900.00,5,90
+PR0014,MacBook Air M3,MacBook Air 13in M3 8GB 512GB,134900.00,3,70
+PR0015,MacBook Pro 14,MacBook Pro 14in M3 Pro 18GB,199900.00,2,50
+PR0016,MacBook Pro 16,MacBook Pro 16in M3 Max 36GB,299900.00,1,30
+PR0017,Mac Mini M2,Mac Mini M2 8GB 256GB SSD,59900.00,5,85
+PR0018,Mac Studio M2,Mac Studio M2 Max 32GB 512GB,199900.00,3,40
+PR0019,Apple Watch S9 41,Apple Watch Series 9 41mm GPS,41900.00,6,140
+PR0020,Apple Watch S9 45,Apple Watch Series 9 45mm GPS,44900.00,5,130
+PR0021,Apple Watch Ultra2,Apple Watch Ultra 2 49mm GPS+Cell,89900.00,2,55
+PR0022,Apple Watch SE 2,Apple Watch SE 2nd Gen 40mm GPS,29900.00,8,175
+PR0023,AirPods 3rd Gen,AirPods 3rd Gen with MagSafe Case,19900.00,10,300
+PR0024,AirPods Pro 2,AirPods Pro 2nd Gen USB-C ANC,24900.00,8,220
+PR0025,AirPods Max USB-C,AirPods Max USB-C Midnight Color,59900.00,5,80
+PR0026,Apple TV 4K 3rd,Apple TV 4K 3rd Gen 64GB WiFi,18900.00,7,120
+PR0027,HomePod 2nd Gen,HomePod 2nd Gen Smart Speaker White,32900.00,5,95
+PR0028,HomePod Mini,HomePod Mini Smart Speaker Yellow,9900.00,10,200
+PR0029,Apple Pencil 2nd,Apple Pencil 2nd Gen for iPad Pro,11900.00,9,180
+PR0030,Magic Keyboard iPad,Magic Keyboard for iPad Pro 11in,29900.00,6,90
