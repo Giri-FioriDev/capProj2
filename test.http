@@ -46,4 +46,4 @@ Content-Type: application/json
 DELETE http://localhost:4004/odata/v4/cap-proj2/Products('PR0031')
 
 ###
-GET http://localhost:4004/odata/v4/cap-proj2/Products('PR0031')
+    GET http://localhost:4004/odata/v4/cap-proj2/Products('PR0031')
