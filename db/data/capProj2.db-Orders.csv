@@ -1,21 +1,21 @@
 ID,customerName,customerMobile,storeName,netPrice
-ORD001,Rahul Sharma,9876543210,Apple Store Mall Road Chandigarh,229700.00
-ORD002,Priya Patel,9876543211,Apple Store Phoenix Mall Mumbai,149800.00
-ORD003,Amit Kumar,9876543212,Apple Store Connaught Place Delhi,59900.00
-ORD004,Sneha Gupta,9876543213,Apple Store MG Road Pune,199900.00
-ORD005,Vikram Singh,9876543214,Apple Store Brigade Road Bangalore,134900.00
-ORD006,Ananya Reddy,9876543215,Apple Store Salt Lake Kolkata,89900.00
-ORD007,Rohan Iyer,9876543216,Apple Store Jubilee Hills Hyderabad,75400.00
-ORD008,Kavitha Nair,9876543217,Apple Store Anna Nagar Chennai,115400.00
-ORD009,Sanjay Verma,9876543218,Apple Store Rajouri Garden Delhi,78900.00
-ORD010,Meera Joshi,9876543219,Apple Store Koregaon Park Pune,167800.00
-ORD011,Arjun Menon,9876543220,Apple Store Whitefield Bangalore,95400.00
-ORD012,Pooja Singh,9876543221,Apple Store Andheri Mumbai,189700.00
-ORD013,Rajesh Nair,9876543222,Apple Store Adyar Chennai,68900.00
-ORD014,Neha Kapoor,9876543223,Apple Store Vasant Kunj Delhi,145600.00
-ORD015,Akshay Patel,9876543224,Apple Store SG Highway Ahmedabad,82900.00
-ORD016,Divya Rao,9876543225,Apple Store BTM Layout Bangalore,54900.00
-ORD017,Krishna Iyer,9876543226,Apple Store Khar Mumbai,112300.00
-ORD018,Lakshmi Devi,9876543227,Apple Store Jubilee Nagar Lucknow,73900.00
-ORD019,Mohan Reddy,9876543228,Apple Store HSR Layout Bangalore,163500.00
-ORD020,Sita Krishnan,9876543229,Apple Store Park Street Kolkata,98700.00
+660e8400-e29b-41d4-a716-446655440001,Rahul Sharma,9876543210,Apple Store Mall Road Chandigarh,229700.00
+660e8400-e29b-41d4-a716-446655440002,Priya Patel,9876543211,Apple Store Phoenix Mall Mumbai,149800.00
+660e8400-e29b-41d4-a716-446655440003,Amit Kumar,9876543212,Apple Store Connaught Place Delhi,59900.00
+660e8400-e29b-41d4-a716-446655440004,Sneha Gupta,9876543213,Apple Store MG Road Pune,199900.00
+660e8400-e29b-41d4-a716-446655440005,Vikram Singh,9876543214,Apple Store Brigade Road Bangalore,134900.00
+660e8400-e29b-41d4-a716-446655440006,Ananya Reddy,9876543215,Apple Store Salt Lake Kolkata,89900.00
+660e8400-e29b-41d4-a716-446655440007,Rohan Iyer,9876543216,Apple Store Jubilee Hills Hyderabad,75400.00
+660e8400-e29b-41d4-a716-446655440008,Kavitha Nair,9876543217,Apple Store Anna Nagar Chennai,115400.00
+660e8400-e29b-41d4-a716-446655440009,Sanjay Verma,9876543218,Apple Store Rajouri Garden Delhi,78900.00
+660e8400-e29b-41d4-a716-446655440010,Meera Joshi,9876543219,Apple Store Koregaon Park Pune,167800.00
+660e8400-e29b-41d4-a716-446655440011,Arjun Menon,9876543220,Apple Store Whitefield Bangalore,95400.00
+660e8400-e29b-41d4-a716-446655440012,Pooja Singh,9876543221,Apple Store Andheri Mumbai,189700.00
+660e8400-e29b-41d4-a716-446655440013,Rajesh Nair,9876543222,Apple Store Adyar Chennai,68900.00
+660e8400-e29b-41d4-a716-446655440014,Neha Kapoor,9876543223,Apple Store Vasant Kunj Delhi,145600.00
+660e8400-e29b-41d4-a716-446655440015,Akshay Patel,9876543224,Apple Store SG Highway Ahmedabad,82900.00
+660e8400-e29b-41d4-a716-446655440016,Divya Rao,9876543225,Apple Store BTM Layout Bangalore,54900.00
+660e8400-e29b-41d4-a716-446655440017,Krishna Iyer,9876543226,Apple Store Khar Mumbai,112300.00
+660e8400-e29b-41d4-a716-446655440018,Lakshmi Devi,9876543227,Apple Store Jubilee Nagar Lucknow,73900.00
+660e8400-e29b-41d4-a716-446655440019,Mohan Reddy,9876543228,Apple Store HSR Layout Bangalore,163500.00
+660e8400-e29b-41d4-a716-446655440020,Sita Krishnan,9876543229,Apple Store Park Street Kolkata,98700.00
